@@ -9,5 +9,16 @@
     "created": "2026-03-15T13:02:39.951Z",
     "servers": [],
     "plan": "enterprise"
+  },
+  {
+    "id": "usr_1773579847180",
+    "username": "haha",
+    "email": "agunggt75@gmail.com",
+    "password": "MTIzNDU2",
+    "role": "user",
+    "status": "active",
+    "created": "2026-03-15T13:04:07.180Z",
+    "servers": [],
+    "plan": "free"
   }
 ]
