@@ -1,5 +1,12 @@
 [
   {
+    "id": "log_1773583556250",
+    "userId": "admin_1",
+    "action": "LOGIN",
+    "detail": "User logged in",
+    "ts": "2026-03-15T14:05:56.250Z"
+  },
+  {
     "id": "log_1773579783104",
     "userId": "admin_1",
     "action": "LOGIN",
