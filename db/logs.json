@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "log_1773579783104",
+    "userId": "admin_1",
+    "action": "LOGIN",
+    "details": "Logged in from web",
+    "timestamp": "2026-03-15T13:03:03.104Z"
+  }
+]
