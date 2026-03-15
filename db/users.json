@@ -1,0 +1,13 @@
+[
+  {
+    "id": "admin_1",
+    "username": "AgungGt",
+    "email": "agung@gtps.com",
+    "password": "QWd1bmdndDIwMDg=",
+    "role": "admin",
+    "status": "active",
+    "created": "2026-03-15T13:02:39.951Z",
+    "servers": [],
+    "plan": "enterprise"
+  }
+]
